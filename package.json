@@ -1,0 +1,8 @@
+{
+  "name": "parse-order",
+  "version": "1.0.0",
+  "description": "An order parser for VUIs",
+  "main": "lib/main.js",
+  "author": "Joseph Dalrymple <joseph.dalrymple@yum.com>",
+  "license": "MIT"
+}
